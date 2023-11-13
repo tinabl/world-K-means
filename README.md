@@ -1,5 +1,5 @@
 # world-K-means
-an application of ML K-means algorithm on world population and economy dataset
+## an application of ML K-means algorithm on world population and economy dataset
 
 
 I merged six dataframes containing some information about population and economy of world countries with Fuzzywuzzy package of Python. 
