@@ -1,4 +1,4 @@
-# world-K-means
+# world-KMeans
 ## an application of ML K-means algorithm on world population and economy dataset
 
 The aim is to analyze the collective effect of several parameters on an unlabeled, high-column dataset containing information about the social 
