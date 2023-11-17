@@ -8,8 +8,9 @@ of world countries. Then builded K-means clustering algorithm on it and used Plo
 The application divides the world map over the selected columns and a selected region with K-means and specified parameter k. 
 We can select the relevant or irrelevant columns using the correlation heatmap. Also, K-Elbow Visualizer from Yellowbrick shows the best k parameter.
 
-Plotly graphs were attached on repo because they don't show up on Github.
+Plotly graphs were attached on repo because they don't show up on Github.*
 
 In the preparation of the study, I was inspired and benefited from the notebook 'https://www.kaggle.com/code/gcmadhan/unsupervised-learning-countries-need-finance' 
 along with lots of web research.
 
+*They all exist in country_edited.ipynb.
